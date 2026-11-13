@@ -1,0 +1,126 @@
+{
+  "slug": "silencerclear",
+  "box": 215,
+  "question": "How does a motorcycle silencer work?",
+  "url": "https://glassbox.how/e/silencerclear/",
+  "app": "https://glassbox.how/silencerclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a perforated can in 1897 to BS-VI converters and warning sounds for silent EVs.\n\n1897: The Reeves brothers' exhaust muffler\n1909: Maxim's silencer\n1956: A catalytic converter for car exhaust\n1975: Catalytic converters go mainstream\n1978: Europe limits motorcycle noise\n1986: India counts noise as pollution\n\nThe full story, with 26 moments, sources and charts: glassbox.how/e/silencerclear/history (link in bio)\n\nThen play with how it works: glassbox.how/silencerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #silencer #muffler #motorcycle #exhaust #catalyticconverter #decibels #history",
+      "youtube": {
+        "title": "The history of the silencer in 45 seconds #shorts",
+        "description": "From a perforated can in 1897 to BS-VI converters and warning sounds for silent EVs.\n\n1897 · The Reeves brothers' exhaust muffler (Milton O. Reeves and Marshal T. Reeves)\n1909 · Maxim's silencer (Hiram Percy Maxim)\n1956 · A catalytic converter for car exhaust (Eugene Houdry)\n1975 · Catalytic converters go mainstream (US carmakers, to meet EPA rules)\n1978 · Europe limits motorcycle noise (Council of the European Communities)\n1986 · India counts noise as pollution (Parliament of India)\n\n▶ Full history: https://glassbox.how/e/silencerclear/history/\n▶ Play with it: https://glassbox.how/e/silencerclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a motorcycle silencer work?\n\nEach firing blasts a pulse of hot gas down the pipe, 50 times a second at 6,000 rpm. Cut open a motorcycle silencer in 3D and see how chambers, a resonator and fibre packing turn a 100 dB bang into a 77 dB hum, while a hot honeycomb cleans the gas.\n\n→ A motorcycle exhaust is a valve, a pipe, a catalytic converter and a silencer.\n→ Cut the silencer open: perforated tubes, walls, chambers and a wrap of wool.\n→ Each firing sends a pressure pulse down the pipe: 50 a second at 6,000 rpm.\n→ Chambers reflect it, a resonator cancels one note and packing soaks up the rest.\n→ One cylinder thumps; four cylinders share the work and hum four times faster.\n\nPlay with it yourself. It's free and open source: glassbox.how/silencerclear (link in bio)\n\nBox No. 215 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #silencer #muffler #motorcycle #exhaust #catalyticconverter #decibels #noisepollution #bsvi #acoustics",
+    "carousel": "Swipe through: How does a motorcycle silencer work?\n\nEach firing blasts a pulse of hot gas down the pipe, 50 times a second at 6,000 rpm. Cut open a motorcycle silencer in 3D and see how chambers, a resonator and fibre packing turn a 100 dB bang into a 77 dB hum, while a hot honeycomb cleans the gas.\n\nSave this for later, then play with the interactive version at glassbox.how/silencerclear (link in bio).\n\nBox No. 215 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #silencer #muffler #motorcycle #exhaust #catalyticconverter #decibels",
+    "youtube": {
+      "title": "How does a motorcycle silencer work? #shorts",
+      "description": "Each firing blasts a pulse of hot gas down the pipe, 50 times a second at 6,000 rpm. Cut open a motorcycle silencer in 3D and see how chambers, a resonator and fibre packing turn a 100 dB bang into a 77 dB hum, while a hot honeycomb cleans the gas.\n\n▶ Play with it: https://glassbox.how/e/silencerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/silencerclear\n\nBox No. 215 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a motorcycle silencer work? (interactive explainer)",
+      "description": "Each firing blasts a pulse of hot gas down the pipe, 50 times a second at 6,000 rpm. Cut open a motorcycle silencer in 3D and see how chambers, a resonator and fibre packing turn a 100 dB bang into a 77 dB hum, while a hot honeycomb cleans the gas.\n\n▶ Play with the interactive version: https://glassbox.how/e/silencerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/silencerclear\n\nIn this video:\n• A valve, a pipe, a cleaner and a can. Burnt gas leaves the cylinder through the exhaust valve, runs down the header pipe, passes the catalytic converter and ends in the silencer.\n• Three ways to tame a pulse. A four-stroke single fires rpm ÷ 120 times a second, sending sharp pressure pulses with a ladder of harmonics.\n• Quiet costs back pressure. The walls and holes that stop sound also resist the gas, so quieter silencers usually mean more back pressure.\n• A hot, precise chemical reactor. The catalytic converter is a honeycomb coated with platinum, palladium and rhodium.\n• Loud silencers are illegal and harmful. New Indian two-wheelers must pass a 7.5 m pass-by test: 75, 77 or 80 dB(A) by engine size.\n• From 1897 to BS-VI. The Reeves brothers patented a muffler of perforated shells in 1897, Maxim's 1909 silencer gave the part its British name, catalytic converters spread from 1975, and India set vehicle noise limits from 1990 and jumped to BS-VI in 2020.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a motorcycle silencer work?\n\nEach firing blasts a pulse of hot gas down the pipe, 50 times a second at 6,000 rpm.\n\nPlay with it: https://glassbox.how/e/silencerclear/",
+    "linkedin": "How does a motorcycle silencer work?\n\nEach firing blasts a pulse of hot gas down the pipe, 50 times a second at 6,000 rpm. Cut open a motorcycle silencer in 3D and see how chambers, a resonator and fibre packing turn a 100 dB bang into a 77 dB hum, while a hot honeycomb cleans the gas.\n\n1. A valve, a pipe, a cleaner and a can\n2. Three ways to tame a pulse\n3. Quiet costs back pressure\n4. A hot, precise chemical reactor\n5. Loud silencers are illegal and harmful\n6. From 1897 to BS-VI\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 215 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/silencerclear/\nCode: https://github.com/bdeeps/silencerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-11-13T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-11-13T11:49:03.683Z"
+}

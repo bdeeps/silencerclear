@@ -1,0 +1,102 @@
+{
+  "slug": "silencerclear",
+  "box": 215,
+  "date": "2026-11-13",
+  "title": "SilencerClear",
+  "question": "How does a motorcycle silencer work?",
+  "hook": "Each firing blasts a pulse of hot gas down the pipe, 50 times a second at 6,000 rpm. Cut open a motorcycle silencer in 3D and see how chambers, a resonator and fibre packing turn a 100 dB bang into a 77 dB hum, while a hot honeycomb cleans the gas.",
+  "thumbText": "HOW A SILENCER WORKS",
+  "field": "machines",
+  "minutes": 12,
+  "tags": [
+    "silencer",
+    "muffler",
+    "motorcycle",
+    "exhaust",
+    "catalytic converter",
+    "decibels",
+    "noise pollution",
+    "BS-VI",
+    "acoustics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A valve, a pipe, a cleaner and a can",
+      "text": "Burnt gas leaves the cylinder through the exhaust valve, runs down the header pipe, passes the catalytic converter and ends in the silencer. Inside the can, perforated tubes, baffles, expansion chambers, a resonator and glass or steel wool packing make a little maze, and a heat shield keeps legs off the hot metal."
+    },
+    {
+      "title": "Three ways to tame a pulse",
+      "text": "A four-stroke single fires rpm ÷ 120 times a second, sending sharp pressure pulses with a ladder of harmonics. Sudden expansion chambers reflect sound back, TL = 10 log10[1 + ¼(m − 1/m)² sin²(kL)]. A Helmholtz resonator cancels one note. Packing turns high-pitched sound into heat. In hot exhaust sound runs at about 560 m/s, so chambers are sized for the gas, not for air."
+    },
+    {
+      "title": "Quiet costs back pressure",
+      "text": "The walls and holes that stop sound also resist the gas, so quieter silencers usually mean more back pressure. Engines and silencers are designed together to pass the noise and emission tests. One cylinder thumps at a low firing frequency; four cylinders hum four times faster."
+    },
+    {
+      "title": "A hot, precise chemical reactor",
+      "text": "The catalytic converter is a honeycomb coated with platinum, palladium and rhodium. Hot, and with the mixture held at λ = 1 by an oxygen sensor, it turns CO, HC and NOx into CO₂, water and nitrogen. India's BS-VI rules have required this for all new vehicles since 1 April 2020."
+    },
+    {
+      "title": "Loud silencers are illegal and harmful",
+      "text": "New Indian two-wheelers must pass a 7.5 m pass-by test: 75, 77 or 80 dB(A) by engine size. Removing baffles or fitting loud aftermarket silencers breaks the law, draws police fines and harms hearing: +10 dB sounds twice as loud, and NIOSH halves the safe time every 3 dB above 85 dB(A). Hot pipes burn, especially pillion riders' legs."
+    },
+    {
+      "title": "From 1897 to BS-VI",
+      "text": "The Reeves brothers patented a muffler of perforated shells in 1897, Maxim's 1909 silencer gave the part its British name, catalytic converters spread from 1975, and India set vehicle noise limits from 1990 and jumped to BS-VI in 2020. Quiet electric vehicles now have to make warning sounds on purpose."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Firing frequency",
+      "def": "Exhaust pulses per second: for a four-stroke, rpm ÷ 120 × the number of cylinders."
+    },
+    {
+      "term": "Expansion chamber",
+      "def": "A sudden widening in the exhaust that reflects much of the sound back towards the engine."
+    },
+    {
+      "term": "Helmholtz resonator",
+      "def": "A cavity with a neck that rings at one note; fitted beside a pipe it cancels that note."
+    },
+    {
+      "term": "Transmission loss",
+      "def": "How many decibels weaker sound becomes after passing through a silencer or one of its parts."
+    },
+    {
+      "term": "Back pressure",
+      "def": "The extra pressure an engine must push against to drive its exhaust out through the pipe and silencer."
+    },
+    {
+      "term": "A-weighting",
+      "def": "A correction that makes a sound meter count pitches the way the human ear hears them, written dB(A)."
+    },
+    {
+      "term": "Three-way catalytic converter",
+      "def": "A precious-metal-coated honeycomb that cuts CO, HC and NOx at once when hot and at the right mixture."
+    },
+    {
+      "term": "Pass-by test",
+      "def": "A noise test where a vehicle accelerates past microphones 7.5 m away and the loudest reading must stay under the limit."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "silencerclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "title": "The history of the silencer",
+  "tagline": "From a perforated can in 1897 to BS-VI converters and warning sounds for silent EVs.",
+  "intro": "The first engines were deafening, so the first mufflers came almost as soon as the first cars. Over a century the silencer gained chambers, resonators and packing, then a catalytic converter to clean the gas as well as quieten it. India wrote noise limits into its environment law, jumped to BS-VI in 2020, and now fights loud tampered silencers on its streets while quiet electric vehicles are being given sounds on purpose.",
+  "eras": [
+    {
+      "id": "pioneers",
+      "name": "Taming the first engines",
+      "from": 1860,
+      "to": 1930,
+      "color": "#c49bff",
+      "summary": "Resonators, the first mufflers and Maxim's silencer: people learn to quieten the bang of a running engine."
+    },
+    {
+      "id": "clean",
+      "name": "Cleaner and quieter",
+      "from": 1948,
+      "to": 2000,
+      "color": "#ffb547",
+      "summary": "Smog brings the catalytic converter, Europe limits motorcycle noise, and exhausts get smart valves."
+    },
+    {
+      "id": "india",
+      "name": "India writes the rules",
+      "from": 1986,
+      "to": 2020,
+      "color": "#5ce1a9",
+      "summary": "Noise becomes pollution in law, two-wheelers get noise limits, and emission norms climb from the first limits to BS-VI."
+    },
+    {
+      "id": "now",
+      "name": "Enforcement and silence",
+      "from": 2015,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "City police crush loud silencers, hearing standards tighten, and quiet electric vehicles are made to sound on purpose."
+    }
+  ],
+  "events": [
+    {
+      "year": 1863,
+      "date": "1863",
+      "era": "pioneers",
+      "art": "tuningfork",
+      "title": "Helmholtz's resonators",
+      "who": "Hermann von Helmholtz",
+      "where": "Heidelberg, Germany",
+      "country": "Germany",
+      "text": "In his book On the Sensations of Tone, Helmholtz used hollow spheres with a small neck, each ringing at one note, to pick single pitches out of a complex sound.",
+      "why": "The same cavity-and-neck resonator, tuned to one troublesome note, sits inside many silencers today.",
+      "box": "pulse",
+      "sources": [
+        22
+      ],
+      "key": false
+    },
+    {
+      "year": 1885,
+      "date": "1885",
+      "era": "pioneers",
+      "art": "motorcycle",
+      "title": "The first petrol motorcycle",
+      "who": "Gottlieb Daimler and Wilhelm Maybach",
+      "where": "Bad Cannstatt, Germany",
+      "country": "Germany",
+      "text": "Daimler and Maybach tested their small, fast-running petrol engine in a wooden two-wheeler, the Reitwagen. Its single cylinder sent its exhaust straight out.",
+      "why": "From the start, a motorcycle meant a hot, pulsing stream of gas that had to be led away from the rider.",
+      "box": "anatomy",
+      "sources": [
+        23
+      ],
+      "key": false
+    },
+    {
+      "year": 1897,
+      "date": "Filed 11 January, granted 11 May 1897",
+      "era": "pioneers",
+      "art": "oldcar",
+      "key": true,
+      "title": "The Reeves brothers' exhaust muffler",
+      "who": "Milton O. Reeves and Marshal T. Reeves",
+      "where": "Columbus, Indiana, USA",
+      "country": "USA",
+      "text": "Milton Reeves's early car, which he called a motocycle, was very noisy. With his brother he patented a muffler in which exhaust passed through concentric perforated shells, expanding and cooling as it went. The patent even suggested filling the chambers with coke.",
+      "why": "It is often described as the first muffler made for a motor vehicle (a popular claim, not an official one).",
+      "box": "history",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "30 March 1909 (US patent 916,885)",
+      "era": "pioneers",
+      "art": "soundwave",
+      "key": true,
+      "title": "Maxim's silencer",
+      "who": "Hiram Percy Maxim",
+      "where": "Hartford, Connecticut, USA",
+      "country": "USA",
+      "text": "Maxim patented a silencer for guns that used curved vanes to swirl and slow the gas. He developed mufflers for engines in parallel, using much the same ideas, and his company sold silencers for cars, boats and steam exhausts.",
+      "why": "His word stuck: in British and Indian English the exhaust muffler is still a silencer.",
+      "box": "history",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1956 (US patent 2,742,437)",
+      "era": "clean",
+      "art": "molecule",
+      "key": true,
+      "title": "A catalytic converter for car exhaust",
+      "who": "Eugene Houdry",
+      "where": "Pennsylvania, USA",
+      "country": "USA",
+      "text": "Houdry, a French-born chemical engineer who had already changed oil refining with catalysts, turned to smog. He patented a catalytic converter to burn up carbon monoxide and unburnt fuel in engine exhaust.",
+      "why": "Leaded petrol poisoned his catalyst, so it had to wait two decades, but the idea now sits in almost every petrol exhaust.",
+      "box": "catalyst",
+      "sources": [
+        4,
+        3
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "31 December 1970",
+      "era": "clean",
+      "art": "earth",
+      "title": "The US Clean Air Act",
+      "who": "US Congress (bill led by Senator Edmund Muskie)",
+      "where": "Washington, D.C., USA",
+      "country": "USA",
+      "text": "The 1970 Clean Air Act set strict limits on car exhaust that engines alone could not meet.",
+      "why": "It forced the arrival of catalytic converters and of unleaded petrol to go with them.",
+      "box": "catalyst",
+      "sources": [
+        27,
+        3
+      ],
+      "key": false
+    },
+    {
+      "year": 1975,
+      "date": "1975 model year",
+      "era": "clean",
+      "art": "car",
+      "key": true,
+      "title": "Catalytic converters go mainstream",
+      "who": "US carmakers, to meet EPA rules",
+      "where": "USA",
+      "country": "USA",
+      "text": "Starting with the 1975 model year, most new US petrol cars carried a catalytic converter. These first ones were two-way: they oxidised CO and hydrocarbons but did not touch NOx.",
+      "why": "The converter became a standard part of the exhaust, just ahead of the silencer.",
+      "box": "catalyst",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1977,
+      "date": "1977",
+      "era": "clean",
+      "art": "oldcar",
+      "title": "The three-way converter",
+      "who": "Volvo",
+      "where": "California, USA (cars made in Sweden)",
+      "country": "Sweden",
+      "text": "Volvo's 240s for California were the first cars sold with a three-way converter. It cut NOx as well as CO and HC.",
+      "why": "Three-way converters with oxygen sensors are what India's BS-VI bikes use today.",
+      "box": "catalyst",
+      "sources": [
+        3
+      ],
+      "key": false
+    },
+    {
+      "year": 1978,
+      "date": "23 November 1978",
+      "era": "clean",
+      "art": "motorcycle",
+      "key": true,
+      "title": "Europe limits motorcycle noise",
+      "who": "Council of the European Communities",
+      "where": "Brussels, Belgium",
+      "country": "Belgium",
+      "text": "Directive 78/1015/EEC set limits on how loud motorcycles may be and rules for the exhaust systems fitted to them. A 1989 directive extended the rules to replacement silencers.",
+      "why": "It made the silencer a regulated part, tested along with the bike.",
+      "box": "law",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1986,
+      "date": "1986",
+      "era": "india",
+      "art": "scales",
+      "key": true,
+      "title": "India counts noise as pollution",
+      "who": "Parliament of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "After the Bhopal gas disaster, India passed the Environment (Protection) Act, 1986. It was the first Indian law to include noise as a pollutant, and its rules later set noise limits for vehicles.",
+      "why": "The noise limits every new Indian two-wheeler must meet are written under this Act.",
+      "box": "law",
+      "sources": [
+        26,
+        10
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "1986 or 1987",
+      "era": "clean",
+      "art": "engine",
+      "title": "An exhaust valve on a four-stroke bike",
+      "who": "Yamaha",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Yamaha's FZR400R had EXUP, a valve in the exhaust collector turned by a servo motor that opens as rpm rises. Sources differ on whether the first bikes came in 1986 or 1987.",
+      "why": "Valves like it, approved as part of the bike, now help many big bikes and cars meet noise rules while keeping power.",
+      "box": "history",
+      "sources": [
+        13,
+        12
+      ],
+      "key": false
+    },
+    {
+      "year": 1990,
+      "date": "From 1 August 1990",
+      "era": "india",
+      "art": "ear",
+      "title": "India's first vehicle noise limits",
+      "who": "Ministry of Environment and Forests",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "Noise limits for motor vehicles, added to Schedule VI of the Environment (Protection) Rules, took effect in 1990 and were amended several times in the following decade.",
+      "why": "From here on, an Indian two-wheeler's silencer had to meet a legal noise level.",
+      "box": "law",
+      "sources": [
+        11,
+        10
+      ],
+      "key": false
+    },
+    {
+      "year": 1991,
+      "date": "1991",
+      "era": "india",
+      "art": "fuel",
+      "title": "India's first exhaust emission norms",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "India set its first limits on petrol vehicle exhaust in 1991, followed by stricter norms and, for cars, catalytic converters on unleaded petrol in the big cities from the mid-1990s.",
+      "why": "It began the road that led, step by step, to BS-VI.",
+      "box": "catalyst",
+      "sources": [
+        5
+      ],
+      "key": false
+    },
+    {
+      "year": 1998,
+      "date": "1998",
+      "era": "clean",
+      "art": "ear",
+      "title": "85 dB(A) for 8 hours",
+      "who": "NIOSH",
+      "where": "USA",
+      "country": "USA",
+      "text": "NIOSH's criteria document recommended a limit of 85 dB(A) averaged over an 8-hour day, halving the time for every 3 dB more, because evidence supported the 3 dB rule.",
+      "why": "It is the yardstick this box uses to show how fast loud exhaust uses up a safe dose.",
+      "box": "flow",
+      "sources": [
+        7,
+        6
+      ],
+      "key": false
+    },
+    {
+      "year": 2000,
+      "date": "25 September 2000 (G.S.R. 742(E)); limits from 1 January 2003",
+      "era": "india",
+      "art": "scales",
+      "key": true,
+      "title": "Today's Indian two-wheeler noise limits",
+      "who": "Ministry of Environment and Forests",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "A new notification set the limits for two-wheelers made from 2003: 75 dB(A) up to 80 cc, 77 dB(A) from 80 to 175 cc and 80 dB(A) above that, measured with the IS 3028 pass-by test. A 2005 amendment kept these figures.",
+      "why": "These are the numbers a commuter bike's silencer is designed to beat.",
+      "box": "law",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "1 April 2005 (nationwide)",
+      "era": "india",
+      "art": "fuel",
+      "title": "Bharat Stage II for two-wheelers",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "Stricter Bharat Stage II emission norms applied to two-wheelers across India. Two-stroke commuter bikes faded as makers moved to cleaner four-strokes with catalytic converters. (Sources give different start years in different cities.)",
+      "why": "It is part of why the Indian commuter became a four-stroke single with a converter in its exhaust.",
+      "box": "catalyst",
+      "sources": [
+        5
+      ],
+      "key": false
+    },
+    {
+      "year": 2010,
+      "date": "1 April 2010",
+      "era": "india",
+      "art": "fuel",
+      "title": "BS-III for two-wheelers",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "Bharat Stage III norms took effect for two- and three-wheelers.",
+      "why": "Each step tightened limits on CO, HC and NOx from the silencer.",
+      "box": "catalyst",
+      "sources": [
+        5
+      ],
+      "key": false
+    },
+    {
+      "year": 2016,
+      "date": "2016",
+      "era": "india",
+      "art": "road",
+      "title": "India decides to skip BS-V",
+      "who": "Government of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "To cut air pollution faster, the government announced that India would jump straight from BS-IV to BS-VI by 2020.",
+      "why": "It gave makers four years to redesign engines, fuel systems and exhausts.",
+      "box": "catalyst",
+      "sources": [
+        5
+      ],
+      "key": false
+    },
+    {
+      "year": 2017,
+      "date": "1 April 2017",
+      "era": "india",
+      "art": "fuel",
+      "title": "BS-IV for two-wheelers",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "BS-IV norms applied to new two-wheelers.",
+      "why": "It was the last step before the leap to BS-VI.",
+      "box": "catalyst",
+      "sources": [
+        5
+      ],
+      "key": false
+    },
+    {
+      "year": 2017,
+      "date": "December 2017",
+      "era": "now",
+      "art": "hammer",
+      "title": "Tampered silencers crushed in Bengaluru",
+      "who": "Bengaluru Traffic Police",
+      "where": "Bengaluru, Karnataka, India",
+      "country": "India",
+      "text": "To fight noise pollution, Bengaluru police seized tampered and loud aftermarket silencers from motorcycles and crushed them in public.",
+      "why": "It was one of the first of many city drives against illegal loud silencers in India.",
+      "box": "law",
+      "sources": [
+        18
+      ],
+      "key": false
+    },
+    {
+      "year": 2018,
+      "date": "24 October 2018",
+      "era": "india",
+      "art": "scales",
+      "title": "The Supreme Court holds the BS-VI date",
+      "who": "Supreme Court of India (M.C. Mehta v. Union of India)",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "The court ordered that no BS-IV vehicle could be sold or registered in India after 31 March 2020, putting public health ahead of unsold stock.",
+      "why": "It made 1 April 2020 a hard deadline.",
+      "box": "catalyst",
+      "sources": [
+        14,
+        15
+      ],
+      "key": false
+    },
+    {
+      "year": 2019,
+      "date": "Passed August 2019, in force 1 September 2019",
+      "era": "india",
+      "art": "scales",
+      "title": "Higher penalties on Indian roads",
+      "who": "Parliament of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "The Motor Vehicles (Amendment) Act, 2019 raised many penalties. Police now cite section 190(2), on breaking noise and air-pollution standards, against loud modified silencers, with fines reported at up to ₹10,000.",
+      "why": "It gave city police drives against loud silencers more bite.",
+      "box": "law",
+      "sources": [
+        17
+      ],
+      "key": false
+    },
+    {
+      "year": 2020,
+      "date": "1 April 2020",
+      "era": "india",
+      "art": "motorcycle",
+      "key": true,
+      "title": "BS-VI arrives",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "All new vehicles sold in India had to meet BS-VI. For motorcycles the limits match Europe's Euro 5: about 1.0 g/km of CO, 0.1 of HC and 0.06 of NOx. Commuter bikes moved to fuel injection, oxygen sensors and three-way converters.",
+      "why": "The silencer of every new Indian bike now carries a precisely controlled chemical reactor.",
+      "box": "catalyst",
+      "sources": [
+        5,
+        16,
+        14
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "2022",
+      "era": "now",
+      "art": "ear",
+      "title": "A safe-listening standard",
+      "who": "World Health Organization and ITU",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "The WHO–ITU safe listening standard H.870 set a weekly dose for adults of 80 dB(A) for 40 hours, halving the time for every 3 dB more.",
+      "why": "Loud exhausts eat into the same weekly dose as earphones and concerts.",
+      "box": "flow",
+      "sources": [
+        25
+      ],
+      "key": false
+    },
+    {
+      "year": 2025,
+      "date": "January 2025",
+      "era": "now",
+      "art": "hammer",
+      "title": "Hundreds of loud silencers destroyed",
+      "who": "Nagpur Traffic Police",
+      "where": "Nagpur, Maharashtra, India",
+      "country": "India",
+      "text": "Nagpur's traffic department destroyed 440 illegally modified silencers seized in its drives, with fines collected from the riders. Hyderabad and Gurugram police ran similar drives.",
+      "why": "Enforcement goes on: loud silencers remain a common offence in Indian cities.",
+      "box": "law",
+      "sources": [
+        19,
+        28
+      ],
+      "key": false
+    },
+    {
+      "year": 2026,
+      "date": "Notified 6 January 2026; new models from 1 October 2026",
+      "era": "now",
+      "art": "soundwave",
+      "key": true,
+      "title": "Warning sounds for quiet EVs",
+      "who": "Ministry of Road Transport and Highways",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "India made acoustic vehicle alerting systems (AIS-173) compulsory for electric cars, buses and goods vehicles: new models from October 2026 and all from October 2027. Electric two-wheelers are not covered so far.",
+      "why": "With no exhaust at all, electric vehicles must now be made to sound on purpose.",
+      "box": "law",
+      "sources": [
+        20,
+        21
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Muffler patent for a motor vehicle (popular claim)",
+      "value": "1897",
+      "who": "Milton and Marshal Reeves, USA"
+    },
+    {
+      "label": "Patented firearm silencer, with engine mufflers to follow",
+      "value": "1909",
+      "who": "Hiram Percy Maxim, USA"
+    },
+    {
+      "label": "Catalytic converter patent for car exhaust",
+      "value": "1956",
+      "who": "Eugene Houdry, USA"
+    },
+    {
+      "label": "Three-way converter on a production car",
+      "value": "1977",
+      "who": "Volvo, Sweden (cars for California)"
+    },
+    {
+      "label": "EU limits on motorcycle noise",
+      "value": "1978",
+      "who": "Directive 78/1015/EEC"
+    },
+    {
+      "label": "India's current two-wheeler noise limits",
+      "value": "2003",
+      "who": "Environment (Protection) Rules, G.S.R. 742(E)"
+    },
+    {
+      "label": "BS-VI for all new vehicles in India",
+      "value": "2020",
+      "who": "India"
+    }
+  ],
+  "people": [
+    {
+      "name": "Hermann von Helmholtz",
+      "life": "1821 – 1894",
+      "role": "Physicist and physiologist",
+      "from": "Germany",
+      "note": "Explained how resonating cavities pick out single notes, the idea behind a silencer's resonator."
+    },
+    {
+      "name": "Milton Reeves",
+      "life": "1864 – 1925",
+      "role": "Inventor and carmaker",
+      "from": "USA",
+      "note": "Patented an exhaust muffler with his brother Marshal in 1897 to quieten his noisy early car."
+    },
+    {
+      "name": "Hiram Percy Maxim",
+      "life": "1869 – 1936",
+      "role": "Inventor and radio pioneer",
+      "from": "USA",
+      "note": "Patented the gun silencer in 1909 and built engine mufflers on the same ideas."
+    },
+    {
+      "name": "Eugene Houdry",
+      "life": "1892 – 1962",
+      "role": "Chemical engineer",
+      "from": "France and USA",
+      "note": "Pioneer of catalytic refining who patented a catalytic converter for car exhaust in 1956."
+    },
+    {
+      "name": "M. C. Mehta",
+      "life": "born 1946",
+      "role": "Environmental lawyer",
+      "from": "India",
+      "note": "His long-running public-interest case brought the Supreme Court order that held India to BS-VI in 2020."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "The Reeves brothers' 1897 patent suggested filling the muffler's chambers with lumps of coke to break up and cool the gas.",
+    "Sound runs at about 560 m/s through exhaust gas at 550 °C, more than one and a half times its speed in a cool room.",
+    "A single-cylinder bike idling at 1,200 rpm fires only 10 times a second, below the lowest pitch we can hear; what you hear are its harmonics.",
+    "A silencer 20 dB louder than the 77 dB(A) limit sounds about four times as loud, and its safe listening time is a hundred times shorter.",
+    "India skipped BS-V entirely, jumping from BS-IV to BS-VI on 1 April 2020."
+  ],
+  "sources": [
+    {
+      "title": "Exhaust-Muffler for Engines, US Patent 582,485 (M. O. and M. T. Reeves, 1897)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US582485"
+    },
+    {
+      "title": "Milton Reeves",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Milton_Reeves"
+    },
+    {
+      "title": "Hiram Percy Maxim",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hiram_Percy_Maxim"
+    },
+    {
+      "title": "Catalytic converter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Catalytic_converter"
+    },
+    {
+      "title": "Eugene Houdry",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eugene_Houdry"
+    },
+    {
+      "title": "Emission standards in India (Bharat stage)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bharat_stage_emission_standards"
+    },
+    {
+      "title": "Understand Noise Exposure",
+      "publisher": "CDC / NIOSH",
+      "url": "https://www.cdc.gov/niosh/noise/prevent/understand.html"
+    },
+    {
+      "title": "Criteria for a Recommended Standard: Occupational Noise Exposure (1998)",
+      "publisher": "NIOSH",
+      "url": "https://www.cdc.gov/niosh/docs/98-126/"
+    },
+    {
+      "title": "Council Directive 78/1015/EEC on the permissible sound level and exhaust system of motorcycles",
+      "publisher": "EUR-Lex",
+      "url": "https://eur-lex.europa.eu/eli/dir/1978/1015/oj"
+    },
+    {
+      "title": "Council Directive 89/235/EEC (replacement exhaust systems)",
+      "publisher": "legislation.gov.uk (EU-derived)",
+      "url": "https://www.legislation.gov.uk/eudr/1989/235/contents"
+    },
+    {
+      "title": "Environment (Protection) Rules, 1986: noise limits for vehicles at manufacturing stage (MoEF notification)",
+      "publisher": "Wildlife Institute of India archive of MoEF notifications",
+      "url": "https://v1.wii.gov.in/node/1257"
+    },
+    {
+      "title": "Environment (Protection) Fourth Amendment Rules, 2002",
+      "publisher": "InforMEA",
+      "url": "https://www.informea.org/en/legislation/environment-protection-fourth-amendment-rules-2002"
+    },
+    {
+      "title": "Four-stroke power valve system",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Four-stroke_power_valve_system"
+    },
+    {
+      "title": "FZR400R",
+      "publisher": "Yamaha Motor (Communication Plaza collection)",
+      "url": "https://global.yamaha-motor.com/showroom/cp/collection/fzr400r/"
+    },
+    {
+      "title": "Only BS-VI vehicles to be sold from April 2020",
+      "publisher": "Drishti IAS (on the Supreme Court order)",
+      "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/only-bs-vi-vehicles-to-be-sold-from-april-2020"
+    },
+    {
+      "title": "M.C. Mehta v. Union of India, order of 24 October 2018",
+      "publisher": "Supreme Court of India",
+      "url": "https://digiscr.sci.gov.in/"
+    },
+    {
+      "title": "India BS VI policy update",
+      "publisher": "ICCT",
+      "url": "https://theicct.org/sites/default/files/publications/India%20BS%20VI%20Policy%20Update%20vF.pdf"
+    },
+    {
+      "title": "Motor Vehicles (Amendment) Act, 2019",
+      "publisher": "Ministry of Road Transport and Highways",
+      "url": "https://morth.gov.in/sites/default/files/notifications_document/Motor%20Vehicles%20(Amendment)%20Act%202019.pdf"
+    },
+    {
+      "title": "To fight noise pollution, Bengaluru police crushes tampered exhausts",
+      "publisher": "YourStory (Dec 2017)",
+      "url": "https://yourstory.com/2017/12/bengaluru-police-royal-enfield-exhaust"
+    },
+    {
+      "title": "Nagpur Traffic Deptt destroys 440 illegally modified silencers",
+      "publisher": "The Hitavada (10 Jan 2025)",
+      "url": "https://thehitavada.com/Encyc/2025/1/10/Nagpur-Traffic-Deptt-destroys-440-illegally-modified-silencers.html"
+    },
+    {
+      "title": "Central Motor Vehicles (01st Amendment) Rules, 2026: AVAS for electric vehicles",
+      "publisher": "TeamLease RegTech summary of the MoRTH notification",
+      "url": "https://teamleaseregtech.com/updates/article/51592/central-motor-vehicles-01st-amendment-rules-2026"
+    },
+    {
+      "title": "Government proposes acoustic vehicle alerting systems in EVs",
+      "publisher": "Autocar Professional",
+      "url": "https://www.autocarpro.in/news/government-proposes-acoustic-vehicle-alerting-systems-in-evs-from-october-2026-128939"
+    },
+    {
+      "title": "Helmholtz resonance",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Helmholtz_resonance"
+    },
+    {
+      "title": "Daimler Reitwagen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Daimler_Reitwagen"
+    },
+    {
+      "title": "Transmission loss (duct acoustics)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transmission_loss_(duct_acoustics)"
+    },
+    {
+      "title": "Safe listening devices and systems, ITU-T H.870",
+      "publisher": "WHO and ITU",
+      "url": "https://www.who.int/publications/i/item/9789240043114"
+    },
+    {
+      "title": "Environment (Protection) Act, 1986",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Environment_Protection_Act,_1986"
+    },
+    {
+      "title": "Clean Air Act (United States)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clean_Air_Act_(United_States)"
+    },
+    {
+      "title": "Hyderabad traffic police crack down on illegal motorcycle silencers",
+      "publisher": "Telangana Today",
+      "url": "https://telanganatoday.com/hyderabad-traffic-police-crack-down-on-illegal-motorcycle-silencers-destroy-1000-units"
+    }
+  ]
+}
